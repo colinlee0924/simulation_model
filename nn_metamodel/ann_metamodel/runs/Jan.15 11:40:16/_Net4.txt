@@ -1,0 +1,6 @@
+# computing time
+---
+
+## training time: 93.14324 secs
+
+## testing time: 0.234559 secs
